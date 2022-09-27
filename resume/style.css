@@ -25,14 +25,17 @@ strong {
 /* sections of resume */
 h2 {
   font-size: 1em;
+  color:#FFFFFF
   text-transform: uppercase;
   background-color: #33485e;
+  font-weight: 400;
 .size {
     font-size: 1.5em;
     text-transform: uppercase;
     background-color: #33485e;
+    color: #FFFFFF
 }
-/* job titles under "Journalsim Experience" */
+/* job titles under "Journalism Experience" */
 h3 {
   font-size: 1.5em;
   font-weight: 600;
@@ -46,6 +49,7 @@ h4 {
 h5 {
   font-size: 1em;
   font-style: italic;
+  font-weight: 400;
 }
 ul {
   font-size: 1em;
