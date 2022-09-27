@@ -1,14 +1,15 @@
 body {
-  font-family: 'Open Sans', sans-serif;
-  font-color: #444;
+  font-family: 'Open Sans', Arial, sans-serif;
+  text-color: #444;
 }
 h1 {
   font-size: 3em;
-  font-color: #33485e;
+  text-color #33485e;
   text-align: center;
+  text-transform: capitalize;
 }
 p {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', Arial, sans-serif;
   font-size: 1em;
 
 }
