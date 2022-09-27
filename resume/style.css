@@ -1,10 +1,10 @@
 body {
   font-family: 'Open Sans', Arial, sans-serif;
-  text-color: #444;
+  color: #444;
 }
 h1 {
   font-size: 3em;
-  text-color #33485e;
+  color #33485e;
   text-align: center;
   text-transform: capitalize;
 }
