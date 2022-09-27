@@ -23,7 +23,7 @@ strong {
   font-size: 1.5em;
 }
 /* sections of resume */
-h2 {
+h2.section-title {
   font-size: 1.5 em;
   color:#FFFFFF
   text-transform: uppercase;
