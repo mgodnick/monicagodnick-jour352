@@ -11,5 +11,9 @@ h1 {
 p {
   font-family: 'Open Sans', Arial, sans-serif;
   font-size: 1em;
-
+}
+.title-uppercase {
+  text-transform: uppercase;
+  color: #33485e;
+  font-size: 1.5em;
 }
