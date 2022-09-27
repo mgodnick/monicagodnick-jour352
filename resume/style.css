@@ -31,8 +31,8 @@ h2 {
   font-weight: 400;
 }
 /* Contact Info, Skills, Education */
-.size {
-  font-size= 1em;
+ul {
+  font-size: 1em;
 }
 /* job titles under "Journalism Experience" */
 h3 {
