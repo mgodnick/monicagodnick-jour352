@@ -30,9 +30,10 @@ h2 {
   background-color: #33485e;
   font-weight: 400;
 }
-/* Contact Info, Skills, Education */
+/* inside Contact Info, Skills, Education */
 ul {
   font-size: 1em;
+  font-weight: 400;
 }
 /* job titles under "Journalism Experience" */
 h3 {
