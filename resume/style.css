@@ -6,7 +6,7 @@ h1 {
   font-size: 3em;
   color: #33485e;
   text-align: center;
-  text-transform: capitalize;
+  text-transform: uppercase;
 }
 p {
   font-family: 'Open Sans', Arial, sans-serif;
