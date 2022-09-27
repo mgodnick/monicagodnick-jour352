@@ -31,10 +31,7 @@ h2 {
   font-weight: 400;
 }
 /* inside Contact Info, Skills, Education */
-li {
-  font-size: 1em;
-  font-weight: 400;
-}
+
 /* job titles under "Journalism Experience" */
 h3 {
   font-size: 1.5em;
@@ -52,6 +49,5 @@ h5 {
   font-weight: 400;
 }
 .font-size {
-  color: red;
   font-size: 1em;
 }
