@@ -18,18 +18,28 @@ body {
   margin: 0 auto;
 }
 /* image right below the banner name */
-p {
+.description {
   font-family: 'Open Sans', Arial, sans-serif;
   font-size: 1em;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 0;
+  margin-right: 0;
 }
 /* title right below image  */
-strong {
+#title {
   text-transform: uppercase;
   color: #33485e;
   font-size: 1.5em;
+  font-weight:600;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
 }
 /* sections of resume */
-h2.sectionheader {
+.sectionheader {
   font-size: 1.5em;
   color:#FFFFFF;
   text-transform: uppercase;
@@ -45,21 +55,49 @@ h2.sectionheader {
 /* inside Contact Info, Skills, Education */
 
 /* job titles under "Journalism Experience" */
-h3.jobtitle {
+.jobtitle {
   font-size: 1.5em;
   font-weight: 600;
 }
 /* organizations */
-h4 {
-  font-size: 1.5em;
+.organization {
+  font-size: 1.25em;
   font-weight: 400;
 }
 /* job dates */
-h5 {
+.date {
   font-size: 1em;
   font-style: italic;
   font-weight: 400;
+  margin-top: 2px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
 }
 .font-size {
   font-size: 1em;
+}
+.menu{
+  display: inline;
+  margin: 0;
+  text-align: center;
+}
+.degrees {
+  margin-top: 5px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+}
+.do {
+  margin-top: 5px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+}
+.top {
+  width: 60%;
+  min-width: 300px;
+  margin: 0 auto;
+
+  margin-bottom: 30px;
 }
