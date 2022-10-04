@@ -5,6 +5,7 @@ body {
   font-weight: 400;
 }
 /* banner name at top*/
+/*I kept name as a class instead of id because when I would put id the border would change and the font size would get small. */
 .name {
   font-size: 3em;
   color: #33485e;
@@ -77,19 +78,21 @@ body {
 .font-size {
   font-size: 1em;
 }
-.menu{
+.menu {
+  margin: 0 auto;
+  padding: 0 auto;
   display: inline;
-  margin: 0;
-  text-align: center;
-  padding: 0;
+  align-items: center;
+  position: relative;
 }
-.degrees {
+
+#degrees {
   margin-top: 5px;
   margin-bottom: 0px;
   margin-left: 0px;
   margin-bottom: 0px;
 }
-.do {
+#do {
   margin-top: 5px;
   margin-bottom: 0px;
   margin-left: 0px;
@@ -101,9 +104,8 @@ body {
   margin: 0 auto;
   margin-bottom: 30px;
 }
-#id {
+#container {
   width: 100%;
   max-width: 1200 px;
   margin: 0 auto;
   padding-bottom: 50px;
-}
