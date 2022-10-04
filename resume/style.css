@@ -81,9 +81,11 @@ body {
 .menu {
   margin: 0 auto;
   padding: 0 auto;
-  display: inline;
   position: relative;
   text-align: center;
+}
+.menu li {
+  display: inline;
 }
 
 #degrees {
