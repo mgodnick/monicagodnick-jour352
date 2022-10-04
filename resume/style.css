@@ -82,8 +82,8 @@ body {
   margin: 0 auto;
   padding: 0 auto;
   display: inline;
-  align-items: center;
   position: relative;
+  text-align: center;
 }
 
 #degrees {
