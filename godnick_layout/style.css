@@ -14,4 +14,6 @@ h1.organization {
     background-color:royalblue;
     font-style: bold;
     text-align: center;
+    color:aliceblue;
+    text-decoration: aliceblue wavy underline;
 }
