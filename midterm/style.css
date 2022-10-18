@@ -42,7 +42,7 @@ blockquote{
     } 
 }
 .related {
-    background-image: ur(images/final.masthead.png);
+    background-image: url(images/final.masthead.png);
     background-size: 100%,100%;
 }
 p.piccaption {
