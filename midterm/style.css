@@ -41,3 +41,7 @@ blockquote{
     border-left: 4px solid #ccc; 
     } 
 }
+.related {
+    background-color: peru;
+    color:white;
+}
