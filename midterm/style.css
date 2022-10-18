@@ -1,4 +1,4 @@
-img {
-    height:125px;
-    width: 1920px;
-}
+#content {
+    margin: 0 auto;
+    width: 900px; 
+  } 
