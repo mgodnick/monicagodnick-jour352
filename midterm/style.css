@@ -22,3 +22,9 @@
             margin-right: auto;
             width: 100%;
           }
+.subhead {
+    font-family: Helvetica, Arial, sans-serif;
+    color:dimgray;
+    font-style: italic;
+    word-spacing: 10%;
+}
