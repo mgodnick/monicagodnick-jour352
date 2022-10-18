@@ -1,14 +1,4 @@
-#organization {
-    background-image: url(images/final.masthead.png);
-    background-position: center;
-    font-size: 100px;
+img {
     height:125px;
     width: 1920px;
-    background-color:royalblue;
-    text-align: center;
-    color:#1E2A56;
-    margin-top: 0%;
-    padding-top: 0%;
-    padding-left: 0%;
-    padding-right: 0%;
 }
