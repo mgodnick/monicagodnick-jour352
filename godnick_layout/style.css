@@ -3,12 +3,12 @@
     width: 900px; 
   } 
   #byline {
-    font-family: Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif, Arial;
     font-size: 14px;
     font-style: italic;
     }
 h1.organization {
-    font-family: 'Helvetica', Times, serif;
+    font-family: 'Helvetica', Times, serif, Arial;
     font-size: 95px;
     background-image: url(/Users/mjgodnick/Documents/GitHub/monicagodnick-jour352/godnick_layout/images/mastheadbackground.final.png);
     background-size: 100%, 100%;
@@ -16,19 +16,19 @@ h1.organization {
     font-style: bold;
     text-align: center;
     color:aliceblue;
-    text-decoration: aliceblue dotted underline;
+    text-decoration: aliceblue underline;
 }
 p {
 font-family: Georgia, serif, Helvetica, Verdana;
 font-size: 13px
 }
 blockquote {
-  font:helvetica, sans-serif; 
-  font-size:70px ;
+  font:helvetica, sans-serif, 'Times New Roman', Arial; 
+  font-size:65px ;
   font-style: italic; 
   margin-top: 15px; 
   margin-bottom: 15px; 
-  color: red; 
+  color:darkred; 
   margin-left: 50px; 
   padding-left: 15px; 
   border-left: 4px solid #ccc; 
