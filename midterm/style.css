@@ -41,9 +41,8 @@ blockquote{
     border-left: 4px solid #ccc; 
     } 
 }
-.related {
-    background-image: url(images/final.masthead.png);
-    background-size: 100%,100%;
+li{
+    background-color: peru;
 }
 p.piccaption {
     font-size: 10.5px;
