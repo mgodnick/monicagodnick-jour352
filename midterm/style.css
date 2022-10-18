@@ -1,10 +1,11 @@
 #organization {
     background-image: url(images/masthead.png);
     font-family: 'Helvetica', Times, serif, Arial;
-    font-size: 80 px;
-    background-size: 100%, 100%;
+    font-size: 200px;
+    height: 1920px;
     background-color:royalblue;
     font-style: bold;
     text-align: center;
     color:black;
+  
 }
