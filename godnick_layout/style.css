@@ -25,10 +25,10 @@ font-size: 13px
 blockquote {
   font:helvetica, sans-serif, 'Times New Roman', Arial; 
   font-size:50px ;
-  font-style: italic, bold; 
+  font-style: italic; 
   margin-top: 15px; 
   margin-bottom: 15px; 
-  color:cornflowerblue; 
+  color:rgb(8, 52, 133); 
   margin-left: 50px; 
   padding-left: 15px; 
   border-left: 4px solid #ccc; 
