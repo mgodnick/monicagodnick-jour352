@@ -24,11 +24,10 @@
             width: 100%;
           }
 .subhead {
-    font-family: Verdana, Arial, sans-serif;
+    font-family: helvetica, Arial, sans-serif;
     color:#AC1820;
-    font-style: italic;
     word-spacing: 50%;
-    font-weight: 500;
+    font-weight:bolder;
 }
 blockquote{
     font:helvetica, sans-serif, 'Times New Roman', Arial; 
