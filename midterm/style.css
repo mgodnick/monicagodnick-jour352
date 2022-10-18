@@ -24,8 +24,9 @@
             width: 100%;
           }
 .subhead {
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: Verdana, Arial, sans-serif;
     color:steelblue;
     font-style: italic;
-    word-spacing: 10%;
+    word-spacing: 50%;
+    font-weight: 500;
 }
