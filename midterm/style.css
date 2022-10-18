@@ -3,9 +3,10 @@
     background-position: center;
     font-family: 'Helvetica', Times, serif, Arial;
     font-size: 100px;
-    height:200px;
+    height:150px;
     background-color:royalblue;
     font-style: bold;
     text-align: center;
     color:black;
+    margin-top: 0%;
 }
