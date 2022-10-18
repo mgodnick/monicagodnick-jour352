@@ -2,3 +2,17 @@
     margin: 0 auto;
     width: 900px; 
   } 
+#headline {
+    font-size: 58px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+#byline {
+    font-family: Georgia, sans-serif, Arial;
+    font-size: 14px;
+    font-style: italic;
+    }
+    p {
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 12px
+        }
