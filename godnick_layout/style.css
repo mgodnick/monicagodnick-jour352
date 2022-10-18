@@ -10,7 +10,7 @@
 h1.organization {
     font-family: 'Helvetica', Times, serif;
     font-size: 95px;
-    background-image: url(/Users/mjgodnick/Documents/GitHub/monicagodnick-jour352/godnick_layout/images/mastheadbackground.jpg);
+    background-image: url(/Users/mjgodnick/Documents/GitHub/monicagodnick-jour352/godnick_layout/images/mastheadbackground.final.png);
     background-color:royalblue;
     font-style: bold;
     text-align: center;
@@ -32,4 +32,9 @@ blockquote {
   padding-left: 15px; 
   border-left: 4px solid #ccc; 
   } 
+ 
+p.piccaption {
+font-size: 9px;
+ }
 
+  
