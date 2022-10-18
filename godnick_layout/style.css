@@ -41,5 +41,8 @@ blockquote {
 p.piccaption {
 font-size: 10.5px;
  }
-
+.graphic {
+  font-style: italic;
+  color:darkgrey;
+}
   
