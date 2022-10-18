@@ -3,10 +3,12 @@
     background-position: center;
     font-family: 'Courier New', monospace, Times, serif, Arial;
     font-size: 100px;
-    height:140px;
+    height:150px;
     background-color:royalblue;
     text-align: center;
     color:#1E2A56;
     margin-top: 0%;
     padding-top: 0%;
+    padding-left: 0%;
+    padding-right: 0%;
 }
