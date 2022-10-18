@@ -16,7 +16,7 @@ h1.organization {
     font-style: bold;
     text-align: center;
     color:aliceblue;
-    text-decoration: aliceblue underline;
+    text-decoration: aliceblue;
 }
 p {
 font-family: Georgia, serif, Helvetica, Verdana;
@@ -35,7 +35,7 @@ blockquote {
   } 
  
 p.piccaption {
-font-size: 9px;
+font-size: 10.5px;
  }
 
   
