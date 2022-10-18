@@ -41,10 +41,11 @@ blockquote{
     border-left: 4px solid #ccc; 
     } 
 }
-ul {
+#related {
     background-color: peru;
     color:white;
     background-size: 100%, 100%;
+    font-size: medium;
 }
 p.piccaption {
     font-size: 10.5px;
