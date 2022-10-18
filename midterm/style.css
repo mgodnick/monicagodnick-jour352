@@ -41,7 +41,7 @@ blockquote{
     border-left: 4px solid #ccc; 
     } 
 }
-li{
+li,a{
     background-color: peru;
 }
 p.piccaption {
