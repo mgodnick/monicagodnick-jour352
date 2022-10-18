@@ -10,10 +10,26 @@
 h1.organization {
     font-family: 'Helvetica', Times, serif;
     font-size: 95px;
-    background-image: url(mastheadbackground.jpeg);
+    background-image: url(/Users/mjgodnick/Documents/GitHub/monicagodnick-jour352/godnick_layout/images/mastheadbackground.jpg);
     background-color:royalblue;
     font-style: bold;
     text-align: center;
     color:aliceblue;
     text-decoration: aliceblue dotted underline;
 }
+p {
+font-family: Georgia, serif, Helvetica, Verdana;
+font-size: 13px
+}
+blockquote {
+  font:helvetica, sans-serif; 
+  font-size:70px ;
+  font-style: italic; 
+  margin-top: 15px; 
+  margin-bottom: 15px; 
+  color: red; 
+  margin-left: 50px; 
+  padding-left: 15px; 
+  border-left: 4px solid #ccc; 
+  } 
+
