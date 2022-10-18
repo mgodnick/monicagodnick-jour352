@@ -9,7 +9,7 @@
     }
 #headline {
     font-size: 58px;
-    font-style:inherit;
+    font-style:unset;
 }
 #organization {
     font-family: 'Helvetica', Times, serif, Arial;
