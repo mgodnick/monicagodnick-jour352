@@ -31,7 +31,7 @@
 }
 blockquote{
     font:helvetica, sans-serif, 'Times New Roman', Arial; 
-    font-size:50px ;
+    font-size:40px ;
     font-style: italic; 
     margin-top: 15px; 
     margin-bottom: 15px; 
@@ -42,10 +42,8 @@ blockquote{
     } 
 }
 .related {
-    background-color: peru;
-    color:white;
-    background-size: 100%, 100%;
-    font-size: medium;
+    background-image: ur(images/final.masthead.png);
+    background-size: 100%,100%;
 }
 p.piccaption {
     font-size: 10.5px;
