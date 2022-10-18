@@ -7,6 +7,9 @@
     font-size: 14px;
     font-style: italic;
     }
+#headline {
+    font-size: 30px;
+}
 h1.organization {
     font-family: 'Helvetica', Times, serif, Arial;
     font-size: 95px;
