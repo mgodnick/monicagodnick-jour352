@@ -1,4 +1,10 @@
-#organization {
+h1#organization {
     background-image: url(images/masthead.png);
-    
+    font-family: 'Helvetica', Times, serif, Arial;
+    font-size: 95px;
+    background-size: 100%, 100%;
+    background-color:royalblue;
+    font-style: bold;
+    text-align: center;
+    color:darkgrey;
 }
