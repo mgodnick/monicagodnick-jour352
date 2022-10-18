@@ -6,7 +6,6 @@
     font-size: 50px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
-    text-align:justify;
 }
 #byline {
     font-family: Georgia, sans-serif, Arial;
@@ -29,6 +28,7 @@
     word-spacing: 50%;
     font-weight:bolder;
 }
+/* blockquote always displayed before the actual quote in the story*/ 
 blockquote{
     font:helvetica, sans-serif, 'Times New Roman', Arial; 
     font-size:40px ;
@@ -46,3 +46,8 @@ blockquote{
 p.piccaption {
     font-size: 10.5px;
      }
+.related {
+    background-size: 100%, 100%;
+    background-color:royalblue;
+    color:aliceblue;
+}
