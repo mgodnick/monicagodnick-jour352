@@ -1,4 +1,8 @@
 /* styles for my resume */
+.top-header {
+  background-image: url("monica.jpg");
+  background-size: 1024px, 768px;
+}
 body {
   font-family: 'Open Sans', Arial, sans-serif;
   color: #444;
