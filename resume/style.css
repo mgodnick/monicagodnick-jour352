@@ -42,14 +42,16 @@ body {
   min-width: 300px;
   margin: 0 auto;
 }
-.journalism-experience {
-  width: 100%; 
-  padding: 0px 50px 75px 100px;
-}
-.container.sectionheader {
+#container {
+    width: 100%; 
+    padding: 0px 50px 75px 100px;
+  }
+h2.sectionheader{
   padding: 0;
-  margin: 0;
+  margin-left:-10px;
+  margin-right: -10px;
 }
+
 /* image right below the banner name */
 .description {
   font-family: 'Open Sans', Arial, sans-serif;
@@ -81,7 +83,9 @@ body {
   width: 100%;
   min-width: 300px;
   padding: 0;
-
+  width: 100%;
+  margin-left:-10px;
+  margin-right: -20px;
 }
 /* inside Contact Info, Skills, Education */
 
