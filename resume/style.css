@@ -42,15 +42,25 @@ body {
   min-width: 300px;
   margin: 0 auto;
 }
-#container {
+.container {
     width: 100%; 
     padding: 0px 50px 75px 100px;
   }
-h2.sectionheader{
+/* sections of resume */
+#sectionheader {
   padding: 0;
-  margin-left:-10px;
-  margin-right: -10px;
+  margin-left:-69px;
+  margin-right:-69px ;
+  height: 50px;
+  font-size: 1.5em;
+  color:#FFFFFF;
+  text-transform: uppercase;
+  background-color: #33485e;
+  font-weight: 400;
+  width: 100%;
+  min-width: 300px;
 }
+
 
 /* image right below the banner name */
 .description {
@@ -73,20 +83,7 @@ h2.sectionheader{
   margin-left: 0px;
   margin-right: 0px;
 }
-/* sections of resume */
-.sectionheader {
-  font-size: 1.5em;
-  color:#FFFFFF;
-  text-transform: uppercase;
-  background-color: #33485e;
-  font-weight: 400;
-  width: 100%;
-  min-width: 300px;
-  padding: 0;
-  width: 100%;
-  margin-left:-10px;
-  margin-right: -20px;
-}
+
 /* inside Contact Info, Skills, Education */
 
 /* job titles under "Journalism Experience" */
