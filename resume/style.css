@@ -4,8 +4,7 @@
 }
 .top-header {
   background-image: url("monica.jpg");
-  background-size: 541px, 1024px; 
-}
+  background-size: auto;
 body {
   font-family: 'Open Sans', Arial, sans-serif;
   color: #444;
