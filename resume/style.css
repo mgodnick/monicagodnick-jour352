@@ -1,7 +1,10 @@
 /* styles for my resume */
+.navbar navbar-expand-lg navbar-light bg-light {
+  position: fixed;
+}
 .top-header {
   background-image: url("monica.jpg");
-  background-size: 1024px, 394px;
+  background-size: 1024px, 541px;
 }
 body {
   font-family: 'Open Sans', Arial, sans-serif;
