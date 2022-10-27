@@ -30,6 +30,7 @@ strong.name {
   left: -190px;
   font-size: 8.3em;
   text-transform: none;
+  font-family: "Roboto", "Helvetica Neue Light", "Helvetica Neue";
 }
 strong.last-name {
   color: white;
@@ -39,6 +40,7 @@ strong.last-name {
   left: 20px;
   font-size: 8.3em;
   text-transform: none;
+  font-family: "Roboto", "Helvetica Neue Light", "Helvetica Neue";
 }
 .about {
   width: 100%;
@@ -47,7 +49,7 @@ strong.last-name {
   letter-spacing: 2px;
 }
 body {
-  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
+  font-family: "Roboto", "Helvetica Neue Light", "Helvetica Neue", 
   Helvetica, Arial, "Lucida Grande", sans-serif;
   color: #444;
   font-weight: 400;
