@@ -1,0 +1,11 @@
+
+.container {
+    width: 100%; 
+    padding: 0px 50px 75px 40px;
+    max-width: 750px;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
+  Helvetica, Arial, "Lucida Grande", sans-serif;
+  }
+ h1 { 
+    text-align: center;
+ }
