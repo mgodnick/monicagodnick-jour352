@@ -1,11 +1,29 @@
-
-.container {
-    width: 100%; 
-    padding: 0px 50px 75px 40px;
-    max-width: 750px;
-    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
-  Helvetica, Arial, "Lucida Grande", sans-serif;
-  }
- h1 { 
+ .content {
+        margin: 0 auto;
+        width: 900px; 
+        font-family: Helvetica, Georgia, 'Times New Roman', Times, serif;
+      } 
+h1#headline {
     text-align: center;
- }
+    font-weight: bold;
+    font-size: 3em;
+}
+#byline {
+    font-size: 1em;
+    text-transform: uppercase;
+    text-align: center;
+    font-style: italic;
+}
+#photo-caption {
+    font-size: 1em;
+   color:darkgrey;   
+}
+figcaption {
+    margin-left: 227px;
+}
+img {
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
