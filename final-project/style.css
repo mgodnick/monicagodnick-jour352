@@ -181,39 +181,28 @@ script.graphs {
 }
 
 
-@media (min-width: 576px) { .graphs {
-    width: 100%;
+@media (min-width: 576px) { div.graphs {
+    width: 570px;
     
 } 
 p.photo-caption {
     color: white;
 }
-}
-p.photo-caption {
-    
-}
-}
 
-@media (max-width: 768px) { .graphs {
-    width: 100%;}
+@media (max-width: 768px) { div.graphs {
+    width: 750px;}
     p.photo-caption {
         color: white;
     }
-    p.side-text {
-        font-size: 17px;
-        margin:auto;
-    }
-    p.normal-text {
-        font-size: 12px;
-        margin:auto;
-    }
+    div.masthead {
+        width: 760px;
 }
 p.photo-caption {
     color: white;
 } }
 
-@media (min-width: 768px) and (max-width: 991px) { .graphs {
-    width: 100%;
+@media (min-width: 768px) and (max-width: 991px) { div.graphs {
+    width: 760px;
 }
 p.photo-caption {
     color: white;
@@ -226,11 +215,9 @@ p.normal-text {
     font-size: 12px;
     margin:auto;
 }
-
-
 }
 
-@media (min-width: 992px) and (max-width: 1199px) { .graphs {
+@media (min-width: 992px) and (max-width: 1199px) { div.graphs {
     width: 100%;
 } 
 p.photo-caption {
@@ -238,14 +225,14 @@ p.photo-caption {
 }
 }
 
-@media (min-width: 1200px) { .graphs {
+@media (min-width: 1200px) { div.graphs {
     width: 100%;}
     p.photo-caption {
         color: grey;
     }
  }
 
-@media (min-width: 1400px) { .graphs {
+@media (min-width: 1400px) { div.graphs {
     width: 100%;
 }
 p.photo-caption {
